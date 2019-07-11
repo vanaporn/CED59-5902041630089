@@ -1,4 +1,4 @@
-form func improt *
+from func improt *
 
 print("Result of return_42() is ", return_42());
 
