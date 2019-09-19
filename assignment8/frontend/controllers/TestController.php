@@ -22,4 +22,4 @@ class TestController extends Controller
         return $this->render('test');
 >>>>>>> eaa6255d0f00285c88ddf0b5a08c1f0b375412fd
     }
-}
+
